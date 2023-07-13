@@ -75,11 +75,12 @@ body::before{
 .personagem-selecionado{
     text-align: center;
     max-height: 530px; 
+    color: black;
 }
 
 .personagem-selecionado .personagem-grande{
-    width: 430px;
-    width: 430px;
+    width: 400px;
+    width: 400px;
 }
 
 .personagem-selecionado .nome-personagem{
@@ -89,10 +90,10 @@ body::before{
 }
 
 .personagem-selecionado .descricao-personagem{
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 20px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 5px;
     width: 420px;
-
+    color: black;
 }
